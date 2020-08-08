@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything and I'll do my best to answer
 - 📫 How to reach me: Email me at karuppiah7890@gmail.com !
 
-![Karuppiah Natarajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karuppiah7890&show_icons=true&hide_border=true "Karuppiah Natarajan's GitHub Stats")
+![Karuppiah Natarajan's GitHub Stats](https://github-readme-stats-nine-sigma.vercel.app/api?username=karuppiah7890&show_icons=true&hide_border=true "Karuppiah Natarajan's GitHub Stats")
